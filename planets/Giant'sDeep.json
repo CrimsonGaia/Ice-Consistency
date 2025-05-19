@@ -1,0 +1,20 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "Giant's Deep",
+		"CometTail": {
+		"primaryBody": "Sun",
+		"innerRadius": 960,
+		"dustTint": {
+			"r": 49,
+			"g": 125,
+			"b": 54,
+			"a": 230
+		},
+		"gasTint": {
+			"r": 201,
+			"g": 232,
+			"b": 255,
+			"a": 20
+		}
+	}
+}

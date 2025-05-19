@@ -1,0 +1,20 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "BrittleHollow",
+		"CometTail": {
+		"primaryBody": "Sun",
+		"innerRadius": 230,
+		"dustTint": {
+			"r": 255,
+			"g": 255,
+			"b": 255,
+			"a": 230
+		},
+		"gasTint": {
+			"r": 156,
+			"g": 243,
+			"b": 255,
+			"a": 20
+		}
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "TOWER_TWIN",
+		"CometTail": {
+		"primaryBody": "CAVE_TWIN",
+		"innerRadius": 130,
+		"dustTint": {
+			"r": 255,
+			"g": 248,
+			"b": 214,
+			"a": 230
+		},
+		"gasTint": {
+			"r": 255,
+			"g": 248,
+			"b": 214,
+			"a": 20
+		}
+	}
+}

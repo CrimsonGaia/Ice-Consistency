@@ -1,0 +1,20 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "TimberHearth",
+		"CometTail": {
+		"primaryBody": "Sun",
+		"innerRadius": 200,
+		"dustTint": {
+			"r": 0,
+			"g": 148,
+			"b": 255,
+			"a": 230
+		},
+		"gasTint": {
+			"r": 201,
+			"g": 232,
+			"b": 255,
+			"a": 20
+		}
+	}
+}
