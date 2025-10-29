@@ -3,18 +3,18 @@
 	"name": "Hollow's Lantern",
 		"CometTail": {
 		"primaryBody": "Sun",
-		"innerRadius": 50,
+		"innerRadius": 135,
 		"dustTint": {
 			"r": 255,
 			"g": 47,
 			"b": 0,
-			"a": 230
+			"a": 55
 		},
 		"gasTint": {
-			"r": 66,
+			"r": 235,
 			"g": 55,
 			"b": 52,
-			"a": 20
+			"a": 7
 		}
 	}
 }

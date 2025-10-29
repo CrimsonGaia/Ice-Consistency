@@ -3,18 +3,18 @@
 	"name": "CAVE_TWIN",
 		"CometTail": {
 		"primaryBody": "TOWER_TWIN",
-		"innerRadius": 130,
+		"innerRadius": 210,
 		"dustTint": {
 			"r": 255,
 			"g": 47,
 			"b": 0,
-			"a": 230
+			"a": 70
 		},
 		"gasTint": {
-			"r": 66,
+			"r": 255,
 			"g": 55,
 			"b": 52,
-			"a": 20
+			"a": 2
 		}
 	}
 }

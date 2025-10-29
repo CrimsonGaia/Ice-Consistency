@@ -3,18 +3,18 @@
 	"name": "BrittleHollow",
 		"CometTail": {
 		"primaryBody": "Sun",
-		"innerRadius": 230,
+		"innerRadius": 360,
 		"dustTint": {
-			"r": 255,
-			"g": 255,
-			"b": 255,
-			"a": 230
-		},
-		"gasTint": {
-			"r": 156,
+			"r": 217,
 			"g": 243,
 			"b": 255,
-			"a": 20
+			"a": 1
+		},
+		"gasTint": {
+			"r": 217,
+			"g": 243,
+			"b": 255,
+			"a": 2
 		}
 	}
 }

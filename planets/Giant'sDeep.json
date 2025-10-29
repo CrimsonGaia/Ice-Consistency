@@ -3,18 +3,18 @@
 	"name": "Giant's Deep",
 		"CometTail": {
 		"primaryBody": "Sun",
-		"innerRadius": 960,
+		"innerRadius": 1200,
 		"dustTint": {
 			"r": 49,
 			"g": 125,
 			"b": 54,
-			"a": 230
+			"a": 180
 		},
 		"gasTint": {
-			"r": 201,
-			"g": 232,
-			"b": 255,
-			"a": 20
+			"r": 70,
+			"g": 125,
+			"b": 95,
+			"a": 16
 		}
 	}
 }

@@ -3,18 +3,18 @@
 	"name": "TimberHearth",
 		"CometTail": {
 		"primaryBody": "Sun",
-		"innerRadius": 200,
+		"innerRadius": 350,
 		"dustTint": {
 			"r": 0,
 			"g": 148,
 			"b": 255,
-			"a": 230
+			"a": 48
 		},
 		"gasTint": {
-			"r": 201,
-			"g": 232,
-			"b": 255,
-			"a": 20
+			"r": 20,
+			"g": 40	,
+			"b": 120,
+			"a": 4
 		}
 	}
 }
